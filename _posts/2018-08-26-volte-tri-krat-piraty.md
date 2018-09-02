@@ -6,8 +6,8 @@ tags:
     - tag2
 layout: post
 title: V Praze 2 můžete Piráty volit hned třikrát! 
-author: Jaroslav Němec
-authorId: jaroslav.nemec   # uid nekoho z _people (nepoviné)
+author: Ivan Bartoš
+authorId: ivan.bartos   # uid nekoho z _people (nepoviné)
 image: posts/fotka-ivan-piratske-listy.png
 ---
 
